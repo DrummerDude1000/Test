@@ -5,3 +5,4 @@ def print_num_list():
         print(num)
 
 print_num_list()
+print(len(numbers))
